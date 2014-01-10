@@ -1,0 +1,22 @@
+{
+    "DEX": 15, 
+    "CHA": 11, 
+    "level": 1, 
+    "INT": 11, 
+    "class_spec": "predator", 
+    "class_": "Druid", 
+    "race": "Halfling", 
+    "WIS": 17, 
+    "STR": 12, 
+    "trained_skills": [
+        "endurance", 
+        "perception", 
+        "heal", 
+        "nature"
+    ], 
+    "CON": 14, 
+    "feats": [
+        "ImprovedInitiative"
+    ], 
+    "character_name": "Bobbit"
+}
