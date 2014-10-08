@@ -1,5 +1,6 @@
 import importlib
 
+
 class Name:
     def __init__(self):
         self.STR = 'STR'
@@ -28,7 +29,7 @@ skill_to_abil_mod_map = {
     'religion': name.INT,
     'stealth': name.DEX,
     'streetwise': name.CHA,
-    'theivery': name.DEX,
+    'thievery': name.DEX,
 }
 
 
